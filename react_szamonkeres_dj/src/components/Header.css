@@ -1,0 +1,9 @@
+.headerUl {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.headerUl:hover {
+    cursor: pointer;
+}
